@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    background: rgb(0, 0, 0);
+    border-radius: 20px
+}
+li{
+    padding: 10px;
+    list-style: none;
+    
+}
+.links{
+text-decoration: none;
+color: #fcc302;
+}
+.active{
+   
+    color: palevioletred;
+}
